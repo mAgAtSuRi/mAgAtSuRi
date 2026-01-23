@@ -39,7 +39,7 @@ Here are some of the main projects I have worked on:
 ### Languages
 - C
 - Python
-- Java
+- JavaScript
 - SQL
 
 ### Tools & Concepts
@@ -64,8 +64,8 @@ Here are some of the main projects I have worked on:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mAgAtSuRi&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mAgAtSuRi&layout=compact)
 
 ---
 
@@ -73,4 +73,3 @@ Here are some of the main projects I have worked on:
 
 - 💼 [Linkedin](https://www.linkedin.com/in/tristan-martinez-18b261379/)
 - 📧 Email: tristan.latuilliere@gmail.com
-- 
