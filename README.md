@@ -6,13 +6,6 @@ I enjoy understanding how things work under the hood, driven by innovations and 
 
 ---
 
-## 🎓 Education
-
-- **Computer Science Student**
-- Focus on programming fundamentals, software engineering, and emerging technologies (AI, cloud, databases)
-
----
-
 ## 🚀 Projects
 
 Here are some of the main projects I have worked on:
@@ -30,7 +23,7 @@ Here are some of the main projects I have worked on:
   - RESTful concepts
 
 - **🍽️ CookHub** - [Repository](https://github.com/mAgAtSuRi/portfolio.git)
-  A portfolio project designed and created on my own, managing recipes and groceries list. 
+  A portfolio project designed and created on my own, for managing recipes and groceries list. 
 
 ---
 
